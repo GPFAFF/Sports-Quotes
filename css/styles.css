@@ -1,0 +1,23 @@
+body{
+	background: url(https://c2.staticflickr.com/6/5085/5253853619_916241d8e8.jpg);
+}
+h1, p, #quote-wrapper{
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+	text-transform: uppercase;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+.saying, .speaker, .button{
+	padding: 10px;
+	font-size: 20px;
+}
+.saying{
+	font-size: 30px;
+}
+#quote-wrapper{
+	width: 50%;
+	background-color: rgba(0, 0, 0, 0.5);
+	transition: ease-in 0.9s;
+}
