@@ -9,13 +9,11 @@ h1, p, #quote-wrapper{
 	color: white;
 	text-shadow: 2px 2px 2px black;
 }
-.saying, .speaker, .button{
+.saying, .genius, .button{
 	padding: 10px;
 	font-size: 20px;
 }
-.saying{
-	font-size: 30px;
-}
+
 #quote-wrapper{
 	width: 50%;
 	background-color: rgba(0, 0, 0, 0.5);
